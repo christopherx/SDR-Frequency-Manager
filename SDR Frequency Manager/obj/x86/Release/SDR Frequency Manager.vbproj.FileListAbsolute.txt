@@ -1,0 +1,16 @@
+C:\Users\Chris\documents\visual studio 2010\Projects\SDR Frequency Manager\SDR Frequency Manager\bin\Release\SDR Frequency Manager.exe.config
+C:\Users\Chris\documents\visual studio 2010\Projects\SDR Frequency Manager\SDR Frequency Manager\bin\Release\SDR Frequency Manager.exe.manifest
+C:\Users\Chris\documents\visual studio 2010\Projects\SDR Frequency Manager\SDR Frequency Manager\bin\Release\SDR Frequency Manager.application
+C:\Users\Chris\documents\visual studio 2010\Projects\SDR Frequency Manager\SDR Frequency Manager\bin\Release\SDR Frequency Manager.exe
+C:\Users\Chris\documents\visual studio 2010\Projects\SDR Frequency Manager\SDR Frequency Manager\bin\Release\SDR Frequency Manager.pdb
+C:\Users\Chris\documents\visual studio 2010\Projects\SDR Frequency Manager\SDR Frequency Manager\bin\Release\SDR Frequency Manager.xml
+C:\Users\Chris\documents\visual studio 2010\Projects\SDR Frequency Manager\SDR Frequency Manager\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Chris\documents\visual studio 2010\Projects\SDR Frequency Manager\SDR Frequency Manager\obj\x86\Release\SDR_Frequency_Manager.Form1.resources
+C:\Users\Chris\documents\visual studio 2010\Projects\SDR Frequency Manager\SDR Frequency Manager\obj\x86\Release\SDR_Frequency_Manager.Resources.resources
+C:\Users\Chris\documents\visual studio 2010\Projects\SDR Frequency Manager\SDR Frequency Manager\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Chris\documents\visual studio 2010\Projects\SDR Frequency Manager\SDR Frequency Manager\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Chris\documents\visual studio 2010\Projects\SDR Frequency Manager\SDR Frequency Manager\obj\x86\Release\SDR Frequency Manager.exe.manifest
+C:\Users\Chris\documents\visual studio 2010\Projects\SDR Frequency Manager\SDR Frequency Manager\obj\x86\Release\SDR Frequency Manager.application
+C:\Users\Chris\documents\visual studio 2010\Projects\SDR Frequency Manager\SDR Frequency Manager\obj\x86\Release\SDR Frequency Manager.exe
+C:\Users\Chris\documents\visual studio 2010\Projects\SDR Frequency Manager\SDR Frequency Manager\obj\x86\Release\SDR Frequency Manager.xml
+C:\Users\Chris\documents\visual studio 2010\Projects\SDR Frequency Manager\SDR Frequency Manager\obj\x86\Release\SDR Frequency Manager.pdb

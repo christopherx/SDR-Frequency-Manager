@@ -1,0 +1,24 @@
+C:\Users\Chris\AppData\Local\Temporary Projects\SDR Frequency Manager\bin\Debug\SDR Frequency Manager.exe.config
+C:\Users\Chris\AppData\Local\Temporary Projects\SDR Frequency Manager\bin\Debug\SDR Frequency Manager.exe
+C:\Users\Chris\AppData\Local\Temporary Projects\SDR Frequency Manager\bin\Debug\SDR Frequency Manager.pdb
+C:\Users\Chris\AppData\Local\Temporary Projects\SDR Frequency Manager\bin\Debug\SDR Frequency Manager.xml
+C:\Users\Chris\AppData\Local\Temporary Projects\SDR Frequency Manager\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\AppData\Local\Temporary Projects\SDR Frequency Manager\obj\x86\Debug\SDR_Frequency_Manager.Form1.resources
+C:\Users\Chris\AppData\Local\Temporary Projects\SDR Frequency Manager\obj\x86\Debug\SDR_Frequency_Manager.Resources.resources
+C:\Users\Chris\AppData\Local\Temporary Projects\SDR Frequency Manager\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chris\AppData\Local\Temporary Projects\SDR Frequency Manager\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Chris\AppData\Local\Temporary Projects\SDR Frequency Manager\obj\x86\Debug\SDR Frequency Manager.exe
+C:\Users\Chris\AppData\Local\Temporary Projects\SDR Frequency Manager\obj\x86\Debug\SDR Frequency Manager.xml
+C:\Users\Chris\AppData\Local\Temporary Projects\SDR Frequency Manager\obj\x86\Debug\SDR Frequency Manager.pdb
+C:\Users\Chris\documents\visual studio 2010\Projects\SDR Frequency Manager\SDR Frequency Manager\bin\Debug\SDR Frequency Manager.exe.config
+C:\Users\Chris\documents\visual studio 2010\Projects\SDR Frequency Manager\SDR Frequency Manager\obj\x86\Debug\SDR Frequency Manager.exe
+C:\Users\Chris\documents\visual studio 2010\Projects\SDR Frequency Manager\SDR Frequency Manager\obj\x86\Debug\SDR Frequency Manager.xml
+C:\Users\Chris\documents\visual studio 2010\Projects\SDR Frequency Manager\SDR Frequency Manager\obj\x86\Debug\SDR Frequency Manager.pdb
+C:\Users\Chris\documents\visual studio 2010\Projects\SDR Frequency Manager\SDR Frequency Manager\bin\Debug\SDR Frequency Manager.exe
+C:\Users\Chris\documents\visual studio 2010\Projects\SDR Frequency Manager\SDR Frequency Manager\bin\Debug\SDR Frequency Manager.pdb
+C:\Users\Chris\documents\visual studio 2010\Projects\SDR Frequency Manager\SDR Frequency Manager\bin\Debug\SDR Frequency Manager.xml
+C:\Users\Chris\documents\visual studio 2010\Projects\SDR Frequency Manager\SDR Frequency Manager\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\documents\visual studio 2010\Projects\SDR Frequency Manager\SDR Frequency Manager\obj\x86\Debug\SDR_Frequency_Manager.Form1.resources
+C:\Users\Chris\documents\visual studio 2010\Projects\SDR Frequency Manager\SDR Frequency Manager\obj\x86\Debug\SDR_Frequency_Manager.Resources.resources
+C:\Users\Chris\documents\visual studio 2010\Projects\SDR Frequency Manager\SDR Frequency Manager\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chris\documents\visual studio 2010\Projects\SDR Frequency Manager\SDR Frequency Manager\obj\x86\Debug\GenerateResource.write.1.tlog

@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity name="SDR Frequency Manager.exe" version="1.0.0.0" publicKeyToken="0c238aff6ff7e6da" language="neutral" processorArchitecture="x86" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="SDR Frequency Manager" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="SDR Frequency Manager.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SDR Frequency Manager.exe" size="28672">
+      <assemblyIdentity name="SDR Frequency Manager" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>PhSjOPGtdNIO7eP2SXkk+EV1duA=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="SDR Frequency Manager.exe.config" size="941">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>9pE8mWw2WsuXRhqyMU1neTD9ypM=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=Chris-PC\Chris" issuerKeyHash="5e5dab7162a689cbc8e69321a303bc584dd2238e" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>264cFh1rmjXyS07Spvmd030kojo=</DigestValue></Reference></SignedInfo><SignatureValue>ZzmdinxxhYtcahbbo5Iwo8XepiAW7LxPwmPO+lTv8OiTACtLQ43MPz1xn7TSZKA50gQnT7zpF9iOUv046iTynssRZsPpA/carZH9Ae5Sw9ZRD7Vg6hCLX9qDqghNCPzbDpAc3BTh+oYEHVQMzvlHdvAOrC0Ui4zk50iwwfxFElA=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>xg0lCTWF5Jlt+7zSrDaG8vS/mxpXYdpAnBwWWXyYzPNd9yJMrfjYsjnyVltjOZCK1SFAgvdiH8TxDH7YrStqyHlBp72nkSfG9r0b0wtbBy4lSJyvtbtuMVxa/n5AU2aLS9aZFD8hVhE4//woJyv9BkcdCUzOfwM+gvdJlPpDnPs=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="3aa2247dd39df9a6d24e4bf2359a6b1d161caedb" Description="" Url=""><as:assemblyIdentity name="SDR Frequency Manager.exe" version="1.0.0.0" publicKeyToken="0c238aff6ff7e6da" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=Chris-PC\Chris</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>uBwy0htLvRDXEInEGdkxdKvaKUg=</DigestValue></Reference></SignedInfo><SignatureValue>IwF6axtZKkR+X8p0w9JAoRc8CCdiXRLxSEqM6o/CtWQZKZtsO/k/jW0cls9CFuYgg869dPlRDqs3AcPvTZPUPOTS5E8hkbTXhqDt00ETwKnhvnhx+2uwGKqyVy1B8XdfJamjy1XLuHqpX7QTyRBtyRTjQbxzD6j8ckaut3yJA7Y=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>xg0lCTWF5Jlt+7zSrDaG8vS/mxpXYdpAnBwWWXyYzPNd9yJMrfjYsjnyVltjOZCK1SFAgvdiH8TxDH7YrStqyHlBp72nkSfG9r0b0wtbBy4lSJyvtbtuMVxa/n5AU2aLS9aZFD8hVhE4//woJyv9BkcdCUzOfwM+gvdJlPpDnPs=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB0TCCATqgAwIBAgIQf6RgcHs9L5NMIqmdu0n85TANBgkqhkiG9w0BAQUFADAnMSUwIwYDVQQDHhwAQwBoAHIAaQBzAC0AUABDAFwAQwBoAHIAaQBzMB4XDTEyMDUzMDIwMzcwMVoXDTEzMDUzMTAyMzcwMVowJzElMCMGA1UEAx4cAEMAaAByAGkAcwAtAFAAQwBcAEMAaAByAGkAczCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAxg0lCTWF5Jlt+7zSrDaG8vS/mxpXYdpAnBwWWXyYzPNd9yJMrfjYsjnyVltjOZCK1SFAgvdiH8TxDH7YrStqyHlBp72nkSfG9r0b0wtbBy4lSJyvtbtuMVxa/n5AU2aLS9aZFD8hVhE4//woJyv9BkcdCUzOfwM+gvdJlPpDnPsCAwEAATANBgkqhkiG9w0BAQUFAAOBgQBDcxJRS7UKHCMpzXT2k4md6QP6hQjoH2BpW3W9dk2tRpslXLdVTCOCHRrs/NFb+62qIgrEUD0xvM0CTigVFTXPJ/DBU8vi8ZF0gnVwfx/LUSaooKTjr+gKDChOhzdy0No8mAxFlPCjp2IChK9334CHown8AAYz/8NgUHxh+xMTbw==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
