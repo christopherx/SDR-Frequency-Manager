@@ -184,6 +184,10 @@ Public Class Form1
 
     Private Sub lstBand_DoubleClick(sender As Object, e As System.EventArgs) Handles lstBand.DoubleClick
 
+        If lstBand.Items(lstUser.SelectedIndex) = "" Then
+            Exit Sub
+        End If
+
         Dim cf As String = lstBand.Items(lstBand.SelectedIndex)
 
         SendMessage(cfhwnd, WM_SETTEXT, 0, cf)
@@ -200,6 +204,10 @@ Public Class Form1
 
 
     Private Sub lstUser_DoubleClick(sender As Object, e As System.EventArgs) Handles lstUser.DoubleClick
+
+        If lstUser.Items(lstUser.SelectedIndex) = "" Then
+            Exit Sub
+        End If
 
         Dim f As String = Split(lstUser.Items(lstUser.SelectedIndex), " -- ")(1)
         Dim cf As String = f - 20000
@@ -308,6 +316,34 @@ Public Class Form1
 
     End Sub
 
+    Private Sub lstBand_KeyDown(sender As Object, e As System.Windows.Forms.KeyEventArgs) Handles lstBand.KeyDown
+
+        If e.KeyCode = Keys.Enter Then
+            e.SuppressKeyPress = True
+            lstBand_DoubleClick(sender, e)
+        End If
+
+        If e.KeyCode = Keys.Space Then
+            e.SuppressKeyPress = True
+            lstBand_DoubleClick(sender, e)
+        End If
+
+    End Sub
+
+    Private Sub lstUser_KeyDown(sender As Object, e As System.Windows.Forms.KeyEventArgs) Handles lstUser.KeyDown
+
+        If e.KeyCode = Keys.Enter Then
+            e.SuppressKeyPress = True
+            lstUser_DoubleClick(sender, e)
+        End If
+
+        If e.KeyCode = Keys.Space Then
+            e.SuppressKeyPress = True
+            lstUser_DoubleClick(sender, e)
+        End If
+
+    End Sub
+
 
     Private Sub Form1_Resize(sender As Object, e As System.EventArgs) Handles Me.Resize
 
@@ -315,6 +351,5 @@ Public Class Form1
         lstBand.Height = Me.Height - 75
 
     End Sub
-
 
 End Class
