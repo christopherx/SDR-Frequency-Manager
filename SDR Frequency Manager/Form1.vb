@@ -184,7 +184,7 @@ Public Class Form1
 
     Private Sub lstBand_DoubleClick(sender As Object, e As System.EventArgs) Handles lstBand.DoubleClick
 
-        If lstBand.Items(lstUser.SelectedIndex) = "" Then
+        If lstBand.Items(lstBand.SelectedIndex) = "" Then
             Exit Sub
         End If
 
